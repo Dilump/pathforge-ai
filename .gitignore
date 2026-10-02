@@ -1,0 +1,8 @@
+
+# PathForge Lambda build files
+.lambda-build/
+backend/lambda/*/node_modules/
+backend/lambda/*/package-lock.json
+
+# Local backup files
+*.backup
