@@ -1,0 +1,10 @@
+{
+  "name": "pathforge-coach-lambda",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "PathForge AI Career Coach — AWS Lambda using Amazon Bedrock",
+  "main": "index.mjs",
+  "dependencies": {
+    "@aws-sdk/client-bedrock-runtime": "^3.600.0"
+  }
+}

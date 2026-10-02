@@ -1,0 +1,10 @@
+{
+  "name": "pathforge-roadmap-lambda",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "PathForge AI Roadmap Generator — AWS Lambda using Amazon Bedrock",
+  "main": "index.mjs",
+  "dependencies": {
+    "@aws-sdk/client-bedrock-runtime": "^3.600.0"
+  }
+}
